@@ -1,9 +1,6 @@
 # Terraform-GCP-VM-provisioning-project
 Terraform GCP VM provisioning projec
 
-Awesome! Here's a polished **GitHub README.md** file for your Terraform GCP VM provisioning project. You can copy-paste this into your project’s `README.md` file:
-
----
 
 ```markdown
 # 🚀 GCP VM Provisioning with Terraform
@@ -84,9 +81,6 @@ terraform-gcp-vm/
 
 ---
 
-## 🎥 Demo
-
-Check out [this video](#) where I show the full process from `terraform init` to provisioning and connecting with 5 VMs.
 
 ---
 
@@ -98,7 +92,7 @@ Feel free to fork the repo, raise PRs, or suggest improvements. Let’s build be
 
 ## 📬 Contact
 
-Reach out to me on [LinkedIn](https://linkedin.com/in/dhananjay-kale) if you have any questions or just want to connect!
+Reach out to me on [LinkedIn](www.linkedin.com/in/shivaknya-kadam1234) if you have any questions or just want to connect!
 
 ---
 
@@ -108,6 +102,4 @@ Reach out to me on [LinkedIn](https://linkedin.com/in/dhananjay-kale) if you hav
 
 ```
 
----
-
-Let me know if you'd like to include screenshots or link to your demo video directly — I can help with formatting that too!
+--
